@@ -1,5 +1,5 @@
 # [CVPR'22] Collaborative Glance-Gaze Transformer
-### [Paper](https://arxiv.org/abs/2203.16518) | [Code](https://github.com/jhcho99/CoFormer)
+### [Paper](https://arxiv.org/abs/2203.16518) | [Code](https://github.com/jhcho99/CoFormer) | [Project Page](https://coformer.github.io/)
 
 - This is the project page of [Collaborative Transformers for Grounded Situation Recognition](https://arxiv.org/abs/2203.16518) (CVPR 2022).
 
